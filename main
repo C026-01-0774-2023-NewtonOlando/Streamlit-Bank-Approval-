@@ -1,0 +1,3 @@
+git remote add origin https://github.com/C026-01-0774-2023-NewtonOlando/Streamlit-Bank-Approval-.git
+git branch -M main
+git push -u origin main
